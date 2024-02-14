@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956660685372",
+    "project_id": "loyality-management-7144b",
+    "storage_bucket": "loyality-management-7144b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956660685372:android:36fa1e65d2a0823d29c139",
+        "android_client_info": {
+          "package_name": "com.ags.loyalitymanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8yoKYfhjLzHLSbDu4qwRSjCUwzt-AuVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
